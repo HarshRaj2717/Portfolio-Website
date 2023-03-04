@@ -345,7 +345,7 @@ small a {
     text-align: center;
 }
 
-@import "@catppuccin/palette/style";
+@import url("@catppuccin/palette/style");
 body {
 	color: var(--ctp-mocha-text);
 	background: var(--ctp-mocha-base);
