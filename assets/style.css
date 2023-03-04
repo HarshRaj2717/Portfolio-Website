@@ -348,5 +348,5 @@ small a {
 @import "@catppuccin/palette/style";
 body {
 	color: var(--ctp-mocha-text);
-	background: var(--ctp-frappe-base);
+	background: var(--ctp-mocha-base);
 }
