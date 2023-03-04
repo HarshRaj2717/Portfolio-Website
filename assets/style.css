@@ -331,7 +331,7 @@ hr {
 }
 
 body:hover {
-    border-image: 5;
+    /* border-image: ; */
     border-width: 0;
 }
 
@@ -345,8 +345,8 @@ small a {
     text-align: center;
 }
 
-@import url("@catppuccin/palette/style");
+/* Catppuccin */
 body {
-	color: var(--ctp-mocha-text);
-	background: var(--ctp-mocha-base);
+	color: #cdd6f4;
+	background: #1e1e2e;
 }
