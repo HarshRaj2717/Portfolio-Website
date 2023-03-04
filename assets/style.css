@@ -331,7 +331,7 @@ hr {
 }
 
 body:hover {
-    border-image: ;
+    border-image: 5;
     border-width: 0;
 }
 
@@ -343,4 +343,10 @@ small a {
 .bottom-footer {
     padding: 50px;
     text-align: center;
+}
+
+@import "@catppuccin/palette/style";
+body {
+	color: var(--ctp-mocha-text);
+	background: var(--ctp-frappe-base);
 }
