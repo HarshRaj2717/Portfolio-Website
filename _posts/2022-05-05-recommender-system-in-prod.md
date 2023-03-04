@@ -23,8 +23,21 @@ redirect_from:
 
 what do /b/?
 ```
-
-  
+```python
+for i in range(100):
+    print("yo")
+```
+```c++
+#include<stdio.h>
+using namespace std;
+return 0;
+int main(){
+  for
+  void
+  class
+  std
+}
+```
 
 _Haha, noob. Ok let’s do this._
 

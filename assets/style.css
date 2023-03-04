@@ -148,7 +148,7 @@ code {
 .highlight,
 .code {
     padding: 1px 15px;
-    background-color: #f2f2f2;
+    background-color: #313244;
     color: #222;
     border-radius: 3px;
     margin-block-start: 1em;
@@ -296,11 +296,11 @@ ul.discover-posts li small a {
     }
 
     code {
-        background-color: #777;
+        background-color: #585b70;
     }
 
     pre code {
-        color: #ddd;
+        color: white;
     }
 
     blockquote {
