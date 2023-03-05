@@ -227,7 +227,7 @@ ul.post-list li small {
 
 /* blog posts */
 ul.blog-posts {
-    list-style-type: square;
+    list-style-type: none;
     padding: unset;
 }
 
