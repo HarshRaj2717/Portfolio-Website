@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Harsh Raj
+title: Home
 ---
 
 
