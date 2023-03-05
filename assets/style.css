@@ -67,6 +67,7 @@ a {
 
 nav a {
     margin-right: 10px;
+
 }
 
 textarea,
@@ -199,6 +200,7 @@ footer {
 ul.post-list {
     list-style-type: none;
     padding: unset;
+    list-style-type: square;
 }
 
 ul.post-list li {
@@ -288,11 +290,11 @@ ul.discover-posts li small a {
     h6,
     strong,
     b {
-        color: #eee;
+        color: white;
     }
 
     a {
-        color: #8cc2dd;
+        color: #89b4fa;
     }
 
     code {
