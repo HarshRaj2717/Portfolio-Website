@@ -11,6 +11,8 @@ url: "https://harshraj2717.github.io/Portfolio-Website" # the base hostname & pr
 #########################
 # more settings
 
+highlighter: rouge
+
 plugins:
   - jekyll-redirect-from
 
