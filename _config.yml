@@ -17,13 +17,7 @@ plugins:
 whitelist:
   - jekyll-redirect-from
 
-highlighter: rouge
 markdown: kramdown
-kramdown:
-  input: GFM
-  auto_ids: true
-  hard_wrap: false
-  syntax_highlighter: rouge
 
 compress_html:
   clippings: all
