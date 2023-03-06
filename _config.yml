@@ -64,7 +64,7 @@ links:
 
 # Add links for more focus here
 special_links:
-  <img src="assets/logos/main.png" alt="Mail" width=20px height=20px />: mailto:harshraj2717@gmail.com
-  <img src="assets/logos/github-mark-white.png" alt="GitHub" width=20px height=20px />: https://github.com/HarshRaj2717
-  <img src="assets/logos/linkedin.png" alt="LinkedIn" width=20px height=20px />: https://www.linkedin.com/in/harshraj2717/
-  <img src="assets/logos/discord.png" alt="Discord" width=20px height=20px />: https://www.linkedin.com/in/harshraj2717/
+  <img src="{{ site.baseurl }}/assets/logos/main.png" alt="Mail" width=20px height=20px />: mailto:harshraj2717@gmail.com
+  <img src="{{ site.baseurl }}/assets/logos/github.png" alt="GitHub" width=20px height=20px />: https://github.com/HarshRaj2717
+  <img src="{{ site.baseurl }}/assets/logos/linkedin.png" alt="LinkedIn" width=20px height=20px />: https://www.linkedin.com/in/harshraj2717/
+  <img src="{{ site.baseurl }}/assets/logos/discord.png" alt="Discord" width=20px height=20px />: https://www.linkedin.com/in/harshraj2717/
