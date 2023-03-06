@@ -52,8 +52,7 @@ future: false
 exclude:
 - README.md
 - LICENSE.md
-
-exclude: [vendor]
+- vendor
 
 Projects: /projects
 Blog: /blog
